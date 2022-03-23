@@ -2,14 +2,7 @@
   <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
   <h1>👸💎 ĥªm✓žª.ß 💎👸</h1>
 </div>
-<p align="center">
-    Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
-    <br>
-        <a href="https://chat.whatsapp.com/FufFv6v1M288le5TopCNMQ">Whatsapp Group</a>
-    <br>
-</p>
 
-</div>
 
 	
 ### QR CODE
@@ -21,11 +14,7 @@
 
 ----
 
-<p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
-  </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi">
+
     <img src="https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat-square&logo=github&label=Image Size">
     
   </a>
@@ -50,36 +39,6 @@
   <a href="httsp://github.com/BlackAmda/QueenAmdi">
     <img src="https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic">
 
-  </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic">
-
-  </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/languages/top/BlackAmda/QueenAmdi?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
-
-  </a>
-  </p>
- <p align="center">
-  <a href="https://wa.me/94757405652">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
-
-  </a>
-</p>
- 
-```
-Queen Amdi bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
-The user is responsible for all possible consequences of misuse.
-This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
-Additionally, it enables plug-in support for users.
-Install their own plugins to the original software and use as they please.
-Usage is entirely the responsibility of the user. The operating system is not responsible.
-HAVE A FUN!
-```
 
 
 ### License
